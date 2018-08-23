@@ -1,1 +1,1 @@
-export default "bcdfghjklmnpqrstvxzwy";
+export default 'bcdfghjklmnpqrstvxzwy';
